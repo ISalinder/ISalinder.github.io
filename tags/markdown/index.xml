@@ -260,12 +260,11 @@
     </item>
     
     <item>
-      <title>📈 Communicate your results effectively with the best data visualizations</title>
+      <title>📈 Эффективно сообщайте о своих результатах с помощью лучших средств визуализации данных / Communicate your results effectively with the best data visualizations</title>
       <link>https://example.com/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/data-visualization/</guid>
-      <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
-&lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
+      <description>&lt;p&gt;Hugo Blox создан для того, чтобы предоставить создателям технического контента удобство работы. Вы можете сосредоточиться на контенте, а Хьюго Блокс сделает все остальное. / Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports the popular 
  format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
@@ -275,7 +274,7 @@
 
 
 
-&lt;div id=&#34;chart-826914537&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-952487631&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -293,7 +292,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-826914537&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-952487631&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -588,11 +587,11 @@ data.head()
     </item>
     
     <item>
-      <title>✅ Manage your projects</title>
+      <title>✅ Управляй своими проектами / Manage your projects</title>
       <link>https://example.com/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/project-management/</guid>
-      <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
+      <description>&lt;p&gt;Легко управляйте своими проектами — создавайте карты идей, диаграммы Ганта, списки дел и многое другое! / Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
 &lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;

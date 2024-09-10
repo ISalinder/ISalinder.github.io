@@ -123,6 +123,17 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://example.com/post/zapis/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/zapis/</guid>
+      <description>&lt;p&gt;Это краткое руководство покажет, как настроить шаблон Blog starter . Вы также можете найти его полезным для настройки других шаблонов .
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
       <link>https://example.com/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -236,12 +247,11 @@
     </item>
     
     <item>
-      <title>📈 Communicate your results effectively with the best data visualizations</title>
+      <title>📈 Эффективно сообщайте о своих результатах с помощью лучших средств визуализации данных / Communicate your results effectively with the best data visualizations</title>
       <link>https://example.com/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/data-visualization/</guid>
-      <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
-&lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
+      <description>&lt;p&gt;Hugo Blox создан для того, чтобы предоставить создателям технического контента удобство работы. Вы можете сосредоточиться на контенте, а Хьюго Блокс сделает все остальное. / Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports the popular 
  format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
@@ -251,7 +261,7 @@
 
 
 
-&lt;div id=&#34;chart-826914537&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-952487631&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -269,7 +279,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-826914537&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-952487631&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -564,11 +574,11 @@ data.head()
     </item>
     
     <item>
-      <title>✅ Manage your projects</title>
+      <title>✅ Управляй своими проектами / Manage your projects</title>
       <link>https://example.com/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/project-management/</guid>
-      <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
+      <description>&lt;p&gt;Легко управляйте своими проектами — создавайте карты идей, диаграммы Ганта, списки дел и многое другое! / Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
 &lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
@@ -635,6 +645,63 @@ Parallel 4   :         des6, after des4, 1d
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ЗАПИСЬ О ПРОШЛОЙ НЕДЕЛЕ / New post last week</title>
+      <link>https://example.com/post/new-stage4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/new-stage4/</guid>
+      <description>&lt;p&gt;На прошлой неделе сдавали отчет по 4 лабораторной, скоро начнутся зачеты и экзамены. / Last week we handed in the report for laboratory 4, tests and exams will begin soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>информационная безопасность сегодня / information security today</title>
+      <link>https://example.com/post/stage6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/stage6/</guid>
+      <description>&lt;p&gt;Информационная безопасность охватывает инструменты и процессы, используемые организациями для защиты информации. Сюда входят настройки  политик, предотвращающие доступ неавторизованных лиц к деловой или личной информации. Инфобез - это растущая и развивающаяся область, которая охватывает широкий спектр
+областей, от защиты сетей и инфраструктуры до тестирования и аудита. / Information security covers the tools and processes used by organizations to protect information. This includes setting policies to prevent unauthorized persons from accessing business or personal information. Infobez is a growing and developing field that covers a wide range of
+areas from network and infrastructure security to testing and auditing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новый пост по прошлой неделе</title>
+      <link>https://example.com/post/new-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/new-post/</guid>
+      <description>&lt;p&gt;На прошлой неделе закончилось лето, начинается новый курс. / Summer ended last week and a new course began.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе /  post last week</title>
+      <link>https://example.com/post/new-post5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/new-post5/</guid>
+      <description>&lt;p&gt;На прошлой неделе мы прошли новые приложения прикладных программ, сдали все экзамены и спокойно ушли на каникулы. / Last week we went through new application programs, passed all the exams and quietly went on vacation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание презентаций.</title>
+      <link>https://example.com/post/stage4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/stage4/</guid>
+      <description>&lt;p&gt;Огромная коллекция готовых шаблонов позволит вам быстро и без каких-либо навыков создать красиво оформленную презентацию. Каждый шаблон включает в себя набор из нескольких слайдов, которые вы можете добавлять вместе или по отдельности.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования.</title>
+      <link>https://example.com/post/stag5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/stag5/</guid>
+      <description>&lt;p&gt;Python. Python — язык программирования общего назначения с простым синтаксисом, что делает его идеальным для начинающих. &amp;hellip;
+JavaScript. JavaScript остается основным языком для веб‑разработки, отвечая за интерактивность и динамичность сайтов.&lt;/p&gt;
 </description>
     </item>
     
