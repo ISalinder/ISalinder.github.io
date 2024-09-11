@@ -197,6 +197,19 @@
                 href="https://isalinder.github.io/ru/post/"
                 />
   </url><url>
+    <loc>https://isalinder.github.io/ru/post/11september/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://isalinder.github.io/post/11september/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://isalinder.github.io/ru/post/11september/"
+                />
+  </url><url>
     <loc>https://isalinder.github.io/ru/post/new-stage4/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -221,19 +234,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://isalinder.github.io/ru/post/stage6/"
-                />
-  </url><url>
-    <loc>https://isalinder.github.io/ru/post/new-post/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://isalinder.github.io/post/new-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://isalinder.github.io/ru/post/new-post/"
                 />
   </url><url>
     <loc>https://isalinder.github.io/ru/post/new-post5/</loc>
